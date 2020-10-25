@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Simple Web App Viewer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <h2>Web Designs</h2>
+      <hr><br>
+      <a href="#" onclick="loadPage('web-apps/item1.html')">Item 1</a>
+      <a href="#" onclick="loadPage('web-apps/item2.html')">Item 2</a>
+      <a href="#" onclick="loadPage('web-apps/item3.html')">Item 3</a>
+    </div>
+    <div class="content">
+      <iframe id="mainFrame" src=""></iframe>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
