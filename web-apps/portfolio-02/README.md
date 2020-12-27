@@ -1,2 +1,2 @@
-# Stunning_Portfolio_Website_06-04-23
-In this video, you will learn how to create a visually stunning portfolio website using HTML and CSS.
+# Personal_Portfolio_Website_14-04-23
+In this step-by-step tutorial, learn how to build a responsive personal portfolio website using HTML and CSS.
